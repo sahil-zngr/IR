@@ -1,1 +1,1 @@
-# IR
+# Information Retrieval
